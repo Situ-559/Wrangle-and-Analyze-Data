@@ -51,5 +51,5 @@ At least one (1) labeled visualization is produced in the Jupyter Notebook using
 Report
 Two reports:
 
-Wwrangling efforts are briefly described in wrangle_report.pdf
+Wwrangling efforts are briefly described in wrangle_report.
 The three (3) or more insights the student found are communicated in act_report.pdf including visualization.
